@@ -17,9 +17,9 @@ A simple and responsive calculator built with **HTML**, **CSS**, and **JavaScrip
 - JavaScript
 
 ## Screenshot
-![Project Preview](./images/design/desktop-design.jpg)
 
-![Calculator](Calculator20%overview.png)
+
+![Calculator](Calculator%20overview.png)
 
 ## How to Run
 
